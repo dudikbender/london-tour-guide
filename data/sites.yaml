@@ -1,0 +1,19 @@
+Sites:
+  Hyde Park Corner:
+    address: Hyde Park Corner, London, UK
+    category: Architecture
+    description: Home of the British monarchy.
+    lat: 51.5031
+    lon: -0.1526
+  Buckingham Palace:
+    address: Buckingham Palace, London, UK
+    category: Monument
+    description: Entrance to Hyde Park
+    lat: 51.501476
+    lon: -0.140634
+  Fortnum & Mason:
+    address: 181 Picadilly Street
+    category: Shopping
+    description: Best tea shop in the world!
+    lat: 51.5081
+    lon: -0.1380
