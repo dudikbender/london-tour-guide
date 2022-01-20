@@ -10,5 +10,5 @@ map_fig = generate_map()
 
 ## Streamlit App
 # Header Text
-st.title("**Geocoder2**")
+st.title("**Our Tour of London**")
 st.plotly_chart(map_fig)
