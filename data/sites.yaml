@@ -16,7 +16,14 @@ Sites:
   Fortnum & Mason:
     address: 181 Picadilly Street
     category: Shopping
-    description: Best tea shop in the world!
+    description: One of the best tea shop in the world!
     importance: 9
     lat: 51.5081
     lon: -0.1380
+  Camden Market:
+    address: Chalk Farm Road
+    category: Shopping
+    description: Cool food and vintage market, home of punk rock.
+    importance: 5
+    lat: 51.5390
+    lon: -0.1426
