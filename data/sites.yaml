@@ -27,3 +27,10 @@ Sites:
     importance: 5
     lat: 51.5390
     lon: -0.1426
+  Covent Garden:
+    address: Covent Garden Station
+    category: Architecture
+    description: Famous glass rotunda, with plaza full of shops, museums, and restaurants.
+    importance: 6
+    lat: 51.5117
+    lon: -0.1240
