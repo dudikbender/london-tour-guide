@@ -34,3 +34,10 @@ Sites:
     importance: 6
     lat: 51.5117
     lon: -0.1240
+  Broad Street Pump:
+    address: 15 Broadwick Street, Soho
+    category: Monument
+    description: Site of the pump where John Snow removed the handle to end the cholera epidemic of 1854.
+    importance: 3
+    lat: 51.513525
+    lon: -0.13527
