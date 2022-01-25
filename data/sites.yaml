@@ -41,3 +41,10 @@ Sites:
     importance: 3
     lat: 51.513525
     lon: -0.13527
+  Gordon's Wine Bar:
+    address: 47 Villiers St, London WC2N 6NE
+    category: Pub
+    description: 19th-century wine bar in candlelit, vaulted cellars with original Dickensian-style decor.
+    importance: 3
+    lat: 51.5079
+    lon: -0.1233
