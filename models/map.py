@@ -26,6 +26,8 @@ def generate_map(style: str):
                             hover_data={'Name':True,
                                         'Category':True,
                                         'Description':True,
+                                        'importance':True,
+                                        'Address':True,
                                         'lat':False,
                                         'lon':False,
                                         },
