@@ -55,3 +55,10 @@ Sites:
     importance: 5
     lat: 51.5114
     lon: -0.1397
+  Craven Cottage:
+    address: Stevenage Rd, London SW6 6HH
+    category: Architecture
+    description: Home of London's original football club - Fulham.
+    importance: 5
+    lat: 51.4749
+    lon: -0.2218
