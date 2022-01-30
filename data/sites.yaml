@@ -1,4 +1,11 @@
 Sites:
+  23 Hanley Road:
+    address: 23 Hanley Road, London, N4 3DU
+    category: David's Place
+    description: Your favourite place to visit in London.
+    importance: 1
+    lat: 51.567951
+    lon: -0.120837
   Hyde Park Corner:
     address: Hyde Park Corner, London, UK
     category: Architecture
