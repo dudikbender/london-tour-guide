@@ -70,9 +70,9 @@ Sites:
     lat: 51.4749
     lon: -0.2218
   London West End:
-    address: Stevenage Rd, London SW6 6HH
+    address: Picadilly Circus
     category: Entertainment
     description: The centre of theatre and musicals in London.
     importance: 4
-    lat: 51.4749
-    lon: -0.2218
+    lat: 51.510067
+    lon: -0.133869
