@@ -76,3 +76,10 @@ Sites:
     importance: 4
     lat: 51.510067
     lon: -0.133869
+  Simone's:
+    address: Hamilton, Ontario
+    category: Monument
+    description: Simone's home away from London.
+    importance: 10
+    lat: 43.255203
+    lon: -79.843826
